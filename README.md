@@ -30,3 +30,30 @@ clusters for the weather data.
 * With the help of data models we will try to find out the suitable algorithm for our dataset
 for data processing.
 
+## Purpose
+
+Since the inception of electricity deregulation and market-driven pricing throughout the
+world, utilities have been looking for a means to match consumption with generation. Nonsmart electrical and gas meters only measure total consumption, providing no information
+of when the energy was consumed. Smart meters provide a way of measuring this sitespecific information, allowing utility companies to charge different prices for consumption
+according to the time of day and the season.
+
+## Scope
+
+We will use data from the London data store, that contains the energy consumption readings for a sample of 5,567 London Households that took part in the UK Power Networks
+led Low Carbon London project between November 2011 and February 2014.
+We also collected weather data for London area from the darksky to explore relationships
+between weather conditions and energy consumptions and create clusters for the weather
+data- using which we can add weather identifiers to day-level data.
+We will try to discover patterns by studying these datasets and on that basis will create
+a data models to find out the suitable algorithm for data processing.
+We will use Python and Pandas. Python provides constructs that enable clear programming on both small and large scales. And pandas is a software library written for the
+Python programming language for data analysis.
+On that basis we will create a system that would help the consumers recognize their electric
+usage patterns and be able to optimize their usage.
+
+## Applicability
+
+This system will help the customers to analyse their electricity usage patterns which will help them to optimize their usage. It will also be able to predict the
+electricity usage for the future.
+
+
