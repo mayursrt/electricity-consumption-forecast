@@ -16,3 +16,17 @@ and storage systems. This report describes the use of an approach combined using
 Autoregressive Integrated Moving Average Exogenous (SARIMAX) and Long Short Term
 Memory networks (LSTM) with regression models to predict daily energy consumption of
 customers located in London area.
+
+## Objectives
+
+* In Smart Meter Data Analytics, we will study databases and try to discover patterns and
+on that basis will create a data models.
+* Our study includes, Combining all blocks into a single data frame- keeping on relevant
+columns.
+*  Use day-level energy consumption data per household to normalize data for inconsistent
+household count.
+* Explore relationships between weather conditions and energy consumptions and create
+clusters for the weather data.
+* With the help of data models we will try to find out the suitable algorithm for our dataset
+for data processing.
+
