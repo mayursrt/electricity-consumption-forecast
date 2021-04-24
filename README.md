@@ -75,13 +75,15 @@ After installing jupyter notebook Just run `jupyter notebook` in terminal and yo
 ## Dependencies
 
 * [Pandas](https://pandas.pydata.org/docs/)
-* [NumPy](https://numpy.org/devdocs/user/index.html)
 * [Matplotlib](https://matplotlib.org/3.3.3/contents.html)
-* [Seaborn](https://seaborn.pydata.org/)
 * [Sklearn](https://scikit-learn.org/stable/)
+* [StatsModel](https://www.statsmodels.org/stable/index.html)
+* [PyFlux](https://pyflux.readthedocs.io/en/latest/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
 
 Install missing dependencies using,
 
-	pip install pandas numpy matplotlib seaborn sklearn
+	pip install pandas matplotlib sklearn statsmodel tensorflow pyflux keras
 
 
